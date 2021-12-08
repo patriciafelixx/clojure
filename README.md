@@ -1,6 +1,3 @@
-#### Programação Funcional com Clojure, Datomic e Kafka - Alura
----
-
 ### Clojure
 
 - [Introdução à programação funcional](./01-introducao)
