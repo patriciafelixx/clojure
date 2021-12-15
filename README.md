@@ -11,3 +11,4 @@
 
 ### Kafka
 - [Kafka: Produtores, Consumidores e streams](./07-kafka)
+- [Kafka: Fast delegate, evolução e cluster de brokers](./08-kafka)
