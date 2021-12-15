@@ -8,3 +8,6 @@
 ### Datomic
 - [Introdução ao Datomic: um banco cronológico](./05-datomic)
 - [Datomic Queries: avançando com o modelo e pesquisas](./06-datomic-queries)
+
+### Kafka
+- [Kafka: Produtores, Consumidores e streams](./07-kafka)
