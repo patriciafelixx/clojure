@@ -4,7 +4,7 @@
 - [Coleções no dia a dia](./02-colecoes)
 - [Schemas](./03-schemas)
 - [Explorando testes](./04-testes)
-- [Datomic: Schemas e Regras](./09-schemas-e-regras)
+- [Mutabilidade com átomos e refs](./10-atomos-e-refs)
 
 ### Datomic
 - [Introdução ao Datomic: um banco cronológico](./05-datomic)
@@ -12,5 +12,5 @@
 - [Datomic: Schemas e Regras](./09-schemas-e-regras)
 
 ### Kafka
-- [Kafka: Produtores, Consumidores e streams](./07-kafka)
-- [Kafka: Fast delegate, evolução e cluster de brokers](./08-kafka)
+- [Produtores, Consumidores e streams](./07-kafka)
+- [Fast delegate, evolução e cluster de brokers](./08-kafka)
